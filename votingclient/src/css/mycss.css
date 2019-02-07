@@ -1,0 +1,60 @@
+.hovercss  {
+  border:1px solid white;
+  border-radius: 1000px;
+  
+}
+.hovercss:hover {
+  box-shadow: 5px 5px 5px gray;
+  cursor: pointer;
+}
+/* .dohover:hover{
+  box-shadow: 5px 5px 5px gray;
+
+} */
+.disabledIcon1 {
+  opacity: 1;
+}
+.disabledIcon {
+  opacity: 0.3;
+}
+.enableIcon {
+  opacity: 1;
+}
+.enableIcon1 {
+  opacity: 1;
+}
+.box {
+  width: 100%;
+  max-width: 400px;
+  height: 350px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;    
+  border-radius: 50%;
+}
+.box:hover {
+  border-radius: 50%;
+  box-shadow: 5px 5px 5px gray;
+  opacity: 0.3;
+  cursor: pointer;
+}
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.file {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  background: rgba(150,225,150,0.5);
+  vertical-align: middle;
+  text-align: center;
+  padding: 0 20%;
+  margin-top: -334px;
+  color: #FFF;
+  font-weight: bold;
+  font-size: 400px;
+  opacity: 0;
+}

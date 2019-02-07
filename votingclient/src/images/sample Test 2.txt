@@ -1,0 +1,29 @@
+In Data Encryption,How many Circular Left Shift operation perform in AES? 	
+~[1,2,3,4]
+=[0,1,2,3]
+~[1,1,2,2]	
+~None of the them
+
+In 128-bit AES word calculation, what is the value of Rcon, if you are calculate word 16?
+~[04 00 00 00]	
+=[08 00 00 00]	
+~[10 00 00 00]	
+~None of the them
+
+In AES, Find word 0 if Key=31415926535897932384626433832795?	~[33 83 27 95]	
+=[31 41 59 26]	
+~[23 84 62 64]	
+~[53 58 97 93]
+
+In a public key system using RSA, you intercept the cipher text sent to a user whose public key is [239, 8678321] (means e=229, N=8678321). Find the Private key?
+~1711087	
+~1401167
+=580559
+~None of the them
+
+In a public key system using RSA, you intercept the cipher text=97 sent to a user whose public key is [739, 391] (means e=739, N=391). Find plaintext M? 	
+~76	
+=176	
+~13	
+~None of the them
+

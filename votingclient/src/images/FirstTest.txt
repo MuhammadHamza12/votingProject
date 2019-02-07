@@ -1,0 +1,50 @@
+Encrypt the message CHIEFMINISTERSHAHBAZSHARIFADDRESSINGTHEPMLN using the Ceasar Cipher with the key D/4?
+{~INOKLSOTOYZKXYNGNHGFYNGXOLGJJXKYYOTMZNKVSRT ~WBCYZGCHCMNYLMBUBVUTMBULCZUXXLYMMCHANBYJGFH =GLMIJQMRMWXIVWLELFEDWLEVMJEHHVIWWMRKXLITQPR ~None of Them}
+
+How many Possible keys does the Ceasar Cipher have?
+{=25 ~4 ~26 ~None of them}
+
+Decrypt the message QVBPMUWVMGUIZSMBWDMZVQOPBZIBMAMVLMLPQOPMZ using the Ceasar Cipher with the key I/9?
+{=INTHEMONEYMARKETOVERNIGHTRATESENDEDHIGHER ~JOUIFNPOFZNBSLFUPWFSOJHIUSBUFTFOEFEIJHIFS ~GLRFCKMLCWKYPICRMTCPLGEFRPYRCQCLBCBFGEFCP ~None of Them}
+
+Due to the disorder in Indians wireless station Pakistani army received messages TMOBILEUSAWILLSELLATABLETCOMPUTER and also received cipher text EXZMTWPFDLHTWWDPWWLELMWPENZXAFEPC Determine the key suppose Ceasar Cipher technique is used?
+{=12 ~10 ~8 ~6}
+
+Encrypt the message CHIEFMINISTERSHAHBAZSHARIFADDRESSINGTHEPMLN using the Vigenere Cipher with the key PUNJAB?
+{=RBVNFNXHVBTFGMUJHCPTFQASXZNMDSTMFRNHIBRYMMCUQTWW ~SBVNFNYHVBTFHMUJHCQTFQASYZNMDSUMFRNHJBRYMMDTPOCT ~RBVNZNXHVBNFGMUJBCPTFQUSXZNMXSTMFRHHIBRYGMCXDDAP ~None of Them}
+
+Due to the disorder in Indians wireless station Pakistani army received messages ATTACKEDPAKISTANICOASTGUARDSHIP and also received cipher text  SAHRGCLRGECPGKEFPQFEKAULEJKGYMHQCBT Determine the key suppose Vigenere Cipher technique is used?
+{=SHORE ~BEACH ~INDIA ~None of Them}
+
+Encrypt the message ATTACKEDPAKISTANICOASTGUARDSHIP using the Transposition Cipher with the key BEACH?
+{=TDSCGSXAKKNSRPAPTOUHXTEIITDXCAAAAIX ~AKKNSRPTEIITDXTDSCGSXAPTOUHXCAAAAIX ~TDSCGSXAKKNSRPAPTOUHXCAAAAIXTEIITDX ~None of Them}
+
+Decrypt the message EIEAUFWDVSOLEODYEXASRVRXRCEESX using the Transposition Cipher with the key EAGLE?
+{=WEAREDISCOVEREDSAVEYOURSELF ~WEAREDISCOVEREDSAVEYLFXXXOURSE ~All of them ~None of Them}
+
+In Transposition cipher Find out the working key if Message=TMOBILEUSAWILLSELLATABLETCOMPUTER and Cipher=MEILBOETLWEACTIASTTUOULLLMRBSLAEP
+{=All of them ~EAGLE ~[2 1 4 5 3]}
+
+Encrypt the message ATTACK using the Playfair Cipher with the key EAGLE?
+{=LR_RL_KQ ~RL_LR_QK ~All of them ~None of them}
+
+In S-DES data are Encrypted in ______ bit blocks using a ____ bit key.
+{=8 10 ~8 8 ~10 8 ~None of Them}
+
+In S-DES how many sub-key are used?
+{=2 ~1 ~0 ~None of Them}
+
+In S-DES perform expension operation on 1101
+{=1110 ~1011 ~1100 ~None of Them}
+
+In S-DES, perform Initial Permutation operation on 1101 0000? IP=[2 6 3 1 4 8 5 7]
+{=1001 1000 ~1011 1000 ~1010 1000 ~None of Them}
+
+In DES data are Encrypted in ______ bit blocks using a ____ bit key.
+{=64,56 ~64,64 ~56,64 ~None of Them}
+
+In DES how many sub-key are used?
+{=16 ~12 ~10 ~None of Them}
+
+In S-DES, create a expansion table?
+{=[4 1 2 3 2 3 4 1] ~[1 2 3 2 3 4 1 4] ~[4 1 2 2 3 3 4 1] ~None of Them}
